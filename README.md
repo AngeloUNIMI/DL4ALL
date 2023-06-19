@@ -39,12 +39,12 @@ pip install pytorch_pretrained_vit
 Required files:
     
     - ADP/img_res_1um_bicubic/ <br/>
-    ADP database, split in patches, obtained following the instructions at: <br/>
-    https://www.dsp.utoronto.ca/projects/ADP/ <br/>
+    ADP database, split in patches, obtained following the instructions at: 
+    https://www.dsp.utoronto.ca/projects/ADP/ 
     
     - ADP/ADP_EncodedLabels_Release1_Flat.csv
-    file containing the labels of the ADP database, obtained following the instructions at: <br/>
-    https://www.dsp.utoronto.ca/projects/ADP/ <br/>
+    file containing the labels of the ADP database, obtained following the instructions at:
+    https://www.dsp.utoronto.ca/projects/ADP/ 
     
     - C_NMC 2019 database
     https://www.kaggle.com/datasets/avk256/cnmc-leukemia
